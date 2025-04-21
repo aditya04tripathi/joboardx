@@ -34,25 +34,6 @@ A modern full-stack job board platform where employers can post job listings and
 - [Vercel](https://vercel.com/) (Frontend)
 - [Render](https://render.com/) or [Heroku](https://heroku.com/) (Backend)
 
-## 📁 Project Structure
-
-```
-jobboardx/
-├── client/ # Frontend (Next.js)
-│ ├── components/
-│ ├── pages/
-│ ├── public/
-│ └── styles/
-├── server/ # Backend (Node.js + Express)
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── utils/
-├── .env
-├── package.json
-└── README.md
-```
-
 ## 🔧 Installation
 
 ### Clone the repository
